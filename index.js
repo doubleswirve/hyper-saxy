@@ -1,6 +1,6 @@
 'use strict';
 const foregroundColor = '#eff0eb';
-const backgroundColor = 'rgb(40, 42, 54, 0.75)';
+const backgroundColor = 'rgba(40, 42, 54, 0.80)';
 const red = '#ff5c57';
 const green = '#5af78e';
 const yellow = '#f3f99d';
