@@ -11,7 +11,7 @@ const cyan = '#9aedfe';
 exports.decorateConfig = config => Object.assign({}, config, {
 	backgroundColor,
 	foregroundColor,
-	borderColor: '#222430',
+	borderColor: backgroundColor,
 	cursorColor: '#97979b',
 	colors: {
 		black: backgroundColor,
