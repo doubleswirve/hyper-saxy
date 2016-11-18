@@ -1,20 +1,19 @@
 {
-  "name": "hyper-snazzy",
+  "name": "hyper-saxy",
   "version": "0.2.0",
-  "description": "Elegant Hyper theme with bright colors",
+  "description": "Elegant Hyper theme with bright colors, but transparent",
   "license": "MIT",
-  "repository": "sindresorhus/hyper-snazzy",
+  "repository": "doubleswirve/hyper-saxy",
   "author": {
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "sindresorhus.com"
+    "name": "Billy Stiller",
+    "email": "saxon.stiller@gmail.com"
   },
   "files": [
     "index.js"
   ],
   "keywords": [
     "hyper",
-    "hyper-theme",
+    "hyper-saxy",
     "terminal",
     "term",
     "theme",
